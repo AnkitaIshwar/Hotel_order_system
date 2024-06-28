@@ -19,11 +19,11 @@ Select the desired item type (food or beverage).<br />
 Choose an item from the respective category and specify the quantity.<br />
 Click on the "Add Item" button to add the item to your order.<br />
 Repeat steps 3-5 to add more items to your order.<br />
-Once you've added all desired items, click on the "Place Order" button.
-Enter the tip amount (optional) in the tip calculator and click "Done".
-Review the order summary and total bill including tips and service charges.
+Once you've added all desired items, click on the "Place Order" button.<br />
+Enter the tip amount (optional) in the tip calculator and click "Done".<br />
+Review the order summary and total bill including tips and service charges.<br />
 
 __Acknowledgements__
 
-This project utilizes HTML, CSS, and JavaScript.
-Special thanks to Golden Spoon Hotel for providing the inspiration for this project.
+This project utilizes HTML, CSS, and JavaScript.<br />
+Special thanks to Golden Spoon Hotel for providing the inspiration for this project.<br />
